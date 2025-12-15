@@ -3,7 +3,8 @@
 **TVSHOWGAME**은 AI가 생성한 이미지를 보고 노래 제목을 맞히는 신개념 퀴즈 게임입니다.
 사용자는 다양한 모드로 게임을 즐길 수 있으며, 직접 플레이리스트를 구성하여 나만의 문제를 만들 수도 있습니다.
 
-[!demo](/imgs/demo.mp4)
+
+https://github.com/user-attachments/assets/ddf8394a-c7eb-4f10-89cd-9dccac5e602c
 
 
 ## ✨ 주요 기능 (Key Features)
