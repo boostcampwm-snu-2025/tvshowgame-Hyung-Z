@@ -16,7 +16,7 @@ const NewGame = () => {
         <button 
           className="flex-1 bg-white p-8 rounded-xl border border-gray-200 shadow-md 
                      hover:shadow-xl hover:border-blue-500 hover:-translate-y-1 transition-all duration-300 group text-left"
-          onClick={() => console.log("Random 모드 선택")}
+          onClick={() => navigate('/generation')} // Generation 페이지로 이동
         >
           <div className="text-xl font-bold mb-3 text-gray-900 group-hover:text-blue-600">
             Random
